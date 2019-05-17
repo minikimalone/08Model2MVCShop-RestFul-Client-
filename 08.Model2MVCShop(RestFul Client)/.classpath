@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/json_simple-1.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.codehaus.jackson"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/httpcomponents-client-4.3.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/z.utility/json_simple-1.1-all/json_simple-1.1-all/lib/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/z.utility/jackson-mapper-asl-1.9.13.jar"/>
+	<classpathentry kind="lib" path="C:/z.utility/jackson-core-asl-1.9.13.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
